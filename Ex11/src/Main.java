@@ -14,6 +14,7 @@ Examen: 30%
     double promig = 0.0;
 
     System.out.println("Programa de càlcul de notes terrorífiques:");
+    System.out.println("---------UUUUUUUUUUUUUU-----------------");
 
     /*
     // FOR SIMPLE
