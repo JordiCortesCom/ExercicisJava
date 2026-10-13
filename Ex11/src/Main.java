@@ -13,6 +13,8 @@ Examen: 30%
     double suma = 0.0;
     double promig = 0.0;
 
+    System.out.println("-----HALLOWEEN VERSION -------");
+    System.out.println("Introdueix nota terrofirica");
 
     /*
     // FOR SIMPLE
