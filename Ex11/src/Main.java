@@ -1,3 +1,5 @@
+import java.sql.SQLOutput;
+
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 void main() {
@@ -10,7 +12,9 @@ Examen: 30%
     Scanner input = new Scanner(System.in);
     double suma = 0.0;
     double promig = 0.0;
-    System.out.println("INICI DEL PROGRAMA: CÀLCUL DE NOTES");
+
+    System.out.println("---------- VERSIÓN HALLOWEEN ----------");
+    System.out.println("Programa de càlcul de notes terrorífiques:");
 
     /*
     // FOR SIMPLE
