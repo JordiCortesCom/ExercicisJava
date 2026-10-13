@@ -15,6 +15,7 @@ Examen: 30%
 
     System.out.println("---------- VERSIÓN HALLOWEEN ----------");
     System.out.println("Programa de càlcul de notes terrorífiques:");
+    System.out.println("---------UUUUUUUUUUUUUU-----------------");
 
     /*
     // FOR SIMPLE
